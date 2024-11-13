@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tourify.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be49445364d0ea6028279c37f88efe33e8017bc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tourify.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tourify.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
