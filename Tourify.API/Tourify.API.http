@@ -1,0 +1,6 @@
+@Tourify.API_HostAddress = http://localhost:5016
+
+GET {{Tourify.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

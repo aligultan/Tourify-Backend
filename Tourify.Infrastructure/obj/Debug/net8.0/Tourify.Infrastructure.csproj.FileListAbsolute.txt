@@ -1,0 +1,36 @@
+C:\Users\90544\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\90544\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90544\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\90544\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.AssemblyInfo.cs
+C:\Users\90544\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\90544\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.sourcelink.json
+C:\Users\90544\Tourify.Infrastructure\bin\Debug\net8.0\Tourify.Infrastructure.deps.json
+C:\Users\90544\Tourify.Infrastructure\bin\Debug\net8.0\Tourify.Infrastructure.runtimeconfig.json
+C:\Users\90544\Tourify.Infrastructure\bin\Debug\net8.0\Tourify.Infrastructure.dll
+C:\Users\90544\Tourify.Infrastructure\bin\Debug\net8.0\Tourify.Infrastructure.pdb
+C:\Users\90544\Tourify.Infrastructure\bin\Debug\net8.0\Tourify.Core.dll
+C:\Users\90544\Tourify.Infrastructure\bin\Debug\net8.0\Tourify.Core.pdb
+C:\Users\90544\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.csproj.CopyComplete
+C:\Users\90544\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.dll
+C:\Users\90544\Tourify.Infrastructure\obj\Debug\net8.0\refint\Tourify.Infrastructure.dll
+C:\Users\90544\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.pdb
+C:\Users\90544\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.genruntimeconfig.cache
+C:\Users\90544\Tourify.Infrastructure\obj\Debug\net8.0\ref\Tourify.Infrastructure.dll
+C:\Users\90544\tourify backend\Tourify.Infrastructure\bin\Debug\net8.0\Tourify.Infrastructure.deps.json
+C:\Users\90544\tourify backend\Tourify.Infrastructure\bin\Debug\net8.0\Tourify.Infrastructure.runtimeconfig.json
+C:\Users\90544\tourify backend\Tourify.Infrastructure\bin\Debug\net8.0\Tourify.Infrastructure.dll
+C:\Users\90544\tourify backend\Tourify.Infrastructure\bin\Debug\net8.0\Tourify.Infrastructure.pdb
+C:\Users\90544\tourify backend\Tourify.Infrastructure\bin\Debug\net8.0\Tourify.Core.dll
+C:\Users\90544\tourify backend\Tourify.Infrastructure\bin\Debug\net8.0\Tourify.Core.pdb
+C:\Users\90544\tourify backend\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\90544\tourify backend\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90544\tourify backend\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\90544\tourify backend\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.AssemblyInfo.cs
+C:\Users\90544\tourify backend\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\90544\tourify backend\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.sourcelink.json
+C:\Users\90544\tourify backend\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.csproj.CopyComplete
+C:\Users\90544\tourify backend\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.dll
+C:\Users\90544\tourify backend\Tourify.Infrastructure\obj\Debug\net8.0\refint\Tourify.Infrastructure.dll
+C:\Users\90544\tourify backend\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.pdb
+C:\Users\90544\tourify backend\Tourify.Infrastructure\obj\Debug\net8.0\Tourify.Infrastructure.genruntimeconfig.cache
+C:\Users\90544\tourify backend\Tourify.Infrastructure\obj\Debug\net8.0\ref\Tourify.Infrastructure.dll
